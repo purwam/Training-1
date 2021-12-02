@@ -1,1 +1,2 @@
 This is example3.txt.
+This is a new line
